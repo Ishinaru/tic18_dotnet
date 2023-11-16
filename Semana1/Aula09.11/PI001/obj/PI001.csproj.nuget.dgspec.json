@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/david-pereira-lima/Documentos/David/DOTNET/Semana1/Aula09.11/PI001/PI001.csproj": {}
+    "/home/david-pereira-lima/Documentos/tic18_dotnet/Semana1/Aula09.11/PI001/PI001.csproj": {}
   },
   "projects": {
-    "/home/david-pereira-lima/Documentos/David/DOTNET/Semana1/Aula09.11/PI001/PI001.csproj": {
+    "/home/david-pereira-lima/Documentos/tic18_dotnet/Semana1/Aula09.11/PI001/PI001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/david-pereira-lima/Documentos/David/DOTNET/Semana1/Aula09.11/PI001/PI001.csproj",
+        "projectUniqueName": "/home/david-pereira-lima/Documentos/tic18_dotnet/Semana1/Aula09.11/PI001/PI001.csproj",
         "projectName": "PI001",
-        "projectPath": "/home/david-pereira-lima/Documentos/David/DOTNET/Semana1/Aula09.11/PI001/PI001.csproj",
+        "projectPath": "/home/david-pereira-lima/Documentos/tic18_dotnet/Semana1/Aula09.11/PI001/PI001.csproj",
         "packagesPath": "/home/david-pereira-lima/.nuget/packages/",
-        "outputPath": "/home/david-pereira-lima/Documentos/David/DOTNET/Semana1/Aula09.11/PI001/obj/",
+        "outputPath": "/home/david-pereira-lima/Documentos/tic18_dotnet/Semana1/Aula09.11/PI001/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/david-pereira-lima/.nuget/NuGet/NuGet.Config"

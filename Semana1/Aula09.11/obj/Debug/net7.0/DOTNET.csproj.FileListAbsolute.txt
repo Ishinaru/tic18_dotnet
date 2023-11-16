@@ -13,3 +13,11 @@
 /home/david-pereira-lima/Documentos/David/DOTNET/obj/Debug/net7.0/DOTNET.pdb
 /home/david-pereira-lima/Documentos/David/DOTNET/obj/Debug/net7.0/DOTNET.genruntimeconfig.cache
 /home/david-pereira-lima/Documentos/David/DOTNET/obj/Debug/net7.0/ref/DOTNET.dll
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana1/Aula09.11/obj/Debug/net7.0/DOTNET.csproj.AssemblyReference.cache
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana1/Aula09.11/obj/Debug/net7.0/DOTNET.GeneratedMSBuildEditorConfig.editorconfig
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana1/Aula09.11/obj/Debug/net7.0/DOTNET.AssemblyInfoInputs.cache
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana1/Aula09.11/obj/Debug/net7.0/DOTNET.AssemblyInfo.cs
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana1/Aula09.11/obj/Debug/net7.0/DOTNET.csproj.CoreCompileInputs.cache
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana1/Aula09.11/obj/Debug/net7.0/DOTNET.dll
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana1/Aula09.11/obj/Debug/net7.0/refint/DOTNET.dll
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana1/Aula09.11/obj/Debug/net7.0/DOTNET.pdb
