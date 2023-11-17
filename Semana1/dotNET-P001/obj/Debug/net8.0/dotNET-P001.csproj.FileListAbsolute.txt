@@ -1,0 +1,15 @@
+C:\Users\david\Desktop\Programaçao\residencia\DOTNET\tic18_dotnet\Semana1\dotNET-P001\bin\Debug\net8.0\dotNET-P001.exe
+C:\Users\david\Desktop\Programaçao\residencia\DOTNET\tic18_dotnet\Semana1\dotNET-P001\bin\Debug\net8.0\dotNET-P001.deps.json
+C:\Users\david\Desktop\Programaçao\residencia\DOTNET\tic18_dotnet\Semana1\dotNET-P001\bin\Debug\net8.0\dotNET-P001.runtimeconfig.json
+C:\Users\david\Desktop\Programaçao\residencia\DOTNET\tic18_dotnet\Semana1\dotNET-P001\bin\Debug\net8.0\dotNET-P001.dll
+C:\Users\david\Desktop\Programaçao\residencia\DOTNET\tic18_dotnet\Semana1\dotNET-P001\bin\Debug\net8.0\dotNET-P001.pdb
+C:\Users\david\Desktop\Programaçao\residencia\DOTNET\tic18_dotnet\Semana1\dotNET-P001\obj\Debug\net8.0\dotNET-P001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Programaçao\residencia\DOTNET\tic18_dotnet\Semana1\dotNET-P001\obj\Debug\net8.0\dotNET-P001.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Programaçao\residencia\DOTNET\tic18_dotnet\Semana1\dotNET-P001\obj\Debug\net8.0\dotNET-P001.AssemblyInfo.cs
+C:\Users\david\Desktop\Programaçao\residencia\DOTNET\tic18_dotnet\Semana1\dotNET-P001\obj\Debug\net8.0\dotNET-P001.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Programaçao\residencia\DOTNET\tic18_dotnet\Semana1\dotNET-P001\obj\Debug\net8.0\dotNET-P001.sourcelink.json
+C:\Users\david\Desktop\Programaçao\residencia\DOTNET\tic18_dotnet\Semana1\dotNET-P001\obj\Debug\net8.0\dotNET-P001.dll
+C:\Users\david\Desktop\Programaçao\residencia\DOTNET\tic18_dotnet\Semana1\dotNET-P001\obj\Debug\net8.0\refint\dotNET-P001.dll
+C:\Users\david\Desktop\Programaçao\residencia\DOTNET\tic18_dotnet\Semana1\dotNET-P001\obj\Debug\net8.0\dotNET-P001.pdb
+C:\Users\david\Desktop\Programaçao\residencia\DOTNET\tic18_dotnet\Semana1\dotNET-P001\obj\Debug\net8.0\dotNET-P001.genruntimeconfig.cache
+C:\Users\david\Desktop\Programaçao\residencia\DOTNET\tic18_dotnet\Semana1\dotNET-P001\obj\Debug\net8.0\ref\dotNET-P001.dll
