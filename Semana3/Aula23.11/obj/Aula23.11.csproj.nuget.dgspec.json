@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/david-pereira-lima/Documentos/tic18_dotnet/Semana3/Aula23.11/Aula23.11.csproj": {}
+  },
+  "projects": {
+    "/home/david-pereira-lima/Documentos/tic18_dotnet/Semana3/Aula23.11/Aula23.11.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/david-pereira-lima/Documentos/tic18_dotnet/Semana3/Aula23.11/Aula23.11.csproj",
+        "projectName": "Aula23.11",
+        "projectPath": "/home/david-pereira-lima/Documentos/tic18_dotnet/Semana3/Aula23.11/Aula23.11.csproj",
+        "packagesPath": "/home/david-pereira-lima/.nuget/packages/",
+        "outputPath": "/home/david-pereira-lima/Documentos/tic18_dotnet/Semana3/Aula23.11/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/david-pereira-lima/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
