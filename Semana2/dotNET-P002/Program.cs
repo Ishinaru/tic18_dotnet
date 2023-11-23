@@ -24,7 +24,7 @@ do{
             Console.WriteLine("Criar Tarefa");
             Console.WriteLine("-----------------");
             Console.Write("Título da Tarefa: ");
-            string titulo = Console.ReadLine();
+            string titulo = Console.ReadLine() ?? "";
             Console.Write("Descrição da Tarefa: ");
             string descricao = Console.ReadLine();
             Console.WriteLine("Data de Vencimento: ");
