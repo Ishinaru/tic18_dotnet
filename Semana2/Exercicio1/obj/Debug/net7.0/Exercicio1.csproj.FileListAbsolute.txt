@@ -1,0 +1,15 @@
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana2/Exercicio1/bin/Debug/net7.0/Exercicio1
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana2/Exercicio1/bin/Debug/net7.0/Exercicio1.deps.json
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana2/Exercicio1/bin/Debug/net7.0/Exercicio1.runtimeconfig.json
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana2/Exercicio1/bin/Debug/net7.0/Exercicio1.dll
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana2/Exercicio1/bin/Debug/net7.0/Exercicio1.pdb
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana2/Exercicio1/obj/Debug/net7.0/Exercicio1.csproj.AssemblyReference.cache
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana2/Exercicio1/obj/Debug/net7.0/Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana2/Exercicio1/obj/Debug/net7.0/Exercicio1.AssemblyInfoInputs.cache
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana2/Exercicio1/obj/Debug/net7.0/Exercicio1.AssemblyInfo.cs
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana2/Exercicio1/obj/Debug/net7.0/Exercicio1.csproj.CoreCompileInputs.cache
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana2/Exercicio1/obj/Debug/net7.0/Exercicio1.dll
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana2/Exercicio1/obj/Debug/net7.0/refint/Exercicio1.dll
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana2/Exercicio1/obj/Debug/net7.0/Exercicio1.pdb
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana2/Exercicio1/obj/Debug/net7.0/Exercicio1.genruntimeconfig.cache
+/home/david-pereira-lima/Documentos/tic18_dotnet/Semana2/Exercicio1/obj/Debug/net7.0/ref/Exercicio1.dll
