@@ -20,7 +20,7 @@ AdicionarCliente(clientes, new Cliente("José", new DateTime(13, 7, 1991), "1234
 AdicionarCliente(clientes, new Cliente("Ana", new DateTime(4, 4, 2004), "12345678904", "Solteira", "Estudante"));
 AdicionarCliente(clientes, new Cliente("Pedro", new DateTime(8, 1, 2001), "12345678905", "Solteiro", "Estudante"));
 
-
+var relatorio1 = advogados.Where(a => a.DataNascimento.);
 
 
 
