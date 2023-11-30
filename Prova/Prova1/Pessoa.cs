@@ -9,20 +9,8 @@ public abstract class Pessoa{
 
     public string? Nome { get; set; }
     public DateTime DataNascimento { get; set; }
-    public string? Cpf
-    {
-        get => Cpf;
-
-        set
-        {
-            if (Cpf?.Length == 11 && Cpf.All(char.IsDigit))
-                Cpf = value;
-            else
-            {
-                throw new Exception("CPF inválido");
-            }
-        }
-    }
+    
+    public string? Cpf { get; set; }
 
     public int Idade(){
         DateTime dataAtual = DateTime.Now;
