@@ -20,8 +20,15 @@ App.AdicionarCliente(clientes, new Cliente("Ana", new DateTime(2004, 4, 4), "123
 App.AdicionarCliente(clientes, new Cliente("Pedro", new DateTime(2001, 8 ,1), "12345678905", "Solteiro", "Estudante"));
 
 var relatorio1 = advogados.Where(a => a.Idade() > 20 && a.Idade()<30).Select(a => new {a.Nome, a.CNA});
-Console.WriteLine($"Texto: {string.Join(", ", relatorio1)}");
-    
+Console.WriteLine($"Relatorio 1:\n {string.Join(", \n", relatorio1)}");
+
+var relatorio2 = clientes.Where(c => c.Idade() > 18 && c.Idade()<40).Select(c => new {c.Nome});
+Console.WriteLine($"Relatorio 2:\n {string.Join(", \n", relatorio2)}");
+
+Console.WriteLine("Estado Civil:");
+string ?estadoCivil = Console.ReadLine();
+var relatorio3 = clientes.Where(c => c.EstadoCivil == estadoCivil).Select(c => new {c.Nome, c.EstadoCivil, c.Profissao});
+Console.WriteLine($"Relatorio 3:\n {string.Join(", \n", relatorio3)}");    
 public class App{
     public static void AdicionarAdvogado(List<Advogado> advogados, Advogado advogado){
         if(advogados.Any(a => a.Cpf == advogado.Cpf || a.CNA == advogado.CNA)){
