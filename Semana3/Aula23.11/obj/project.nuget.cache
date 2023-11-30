@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "lNNaqthQ8QsaucPNyxAqTMIsqMXdApnnAIBkAR/9p9yfzEj2t1FqmJW3Fw9I88lWYugqtrVdEKEX0JUwl6vhWw==",
+  "dgSpecHash": "pwV4KVuVfmGsCMCknFZ6S4UYJDIFy9akWhwJ5ArPFWXXifiKUyTbc2vzCUjXgTSADRfdqGOWxndCXQFIE+IFnQ==",
   "success": true,
-  "projectFilePath": "/home/david-pereira-lima/Documentos/tic18_dotnet/Semana3/Aula23.11/Aula23.11.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\david\\Desktop\\Programaçao\\residencia\\DOTNET\\tic18_dotnet\\Semana3\\Aula23.11\\Aula23.11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

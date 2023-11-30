@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "oFwtHwu11GypJLS9BE6fVwEhkQwKtIaZ0BEEo8M7cu82QnQf86X/qRgS7q3t02lEOZgvCJK43DbSUQ9Fcx471w==",
+  "dgSpecHash": "BfiwcRsAWzXPwimbIXnCZE0X9PaY8DqeIeykwUb0n5T2yTgEvVg7Qa14M4iZAAisO1DOmjIWyJHzoWuzUIKgoQ==",
   "success": true,
-  "projectFilePath": "/home/david-pereira-lima/Documentos/tic18_dotnet/Semana2/dotNET-P002/dotNET-P002.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\david\\Desktop\\Programaçao\\residencia\\DOTNET\\tic18_dotnet\\Semana2\\dotNET-P002\\dotNET-P002.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
