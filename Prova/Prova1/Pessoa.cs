@@ -1,3 +1,4 @@
+namespace Pessoa;
 public abstract class Pessoa{
     
     public Pessoa(string nome, DateTime dataNascimento, string cpf){
