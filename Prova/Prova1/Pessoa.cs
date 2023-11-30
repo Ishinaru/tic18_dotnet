@@ -13,7 +13,7 @@ public abstract class Pessoa{
         get{return Cpf;}
         
         set {
-            if (Cpf?.Length == 11 && Cpf.isNumeric())
+            if (Cpf?.Length == 11 && Cpf.All(char.IsDigit))
                 Cpf = value;
             else{
                 throw new Exception("CPF inválido");
