@@ -25,10 +25,25 @@ Console.WriteLine($"Relatorio 1:\n {string.Join(", \n", relatorio1)}");
 var relatorio2 = clientes.Where(c => c.Idade() > 18 && c.Idade()<40).Select(c => new {c.Nome});
 Console.WriteLine($"Relatorio 2:\n {string.Join(", \n", relatorio2)}");
 
-Console.WriteLine("Estado Civil:");
+Console.WriteLine("Escolha o Estado Civil:");
 string ?estadoCivil = Console.ReadLine();
 var relatorio3 = clientes.Where(c => c.EstadoCivil == estadoCivil).Select(c => new {c.Nome, c.EstadoCivil, c.Profissao});
+
 Console.WriteLine($"Relatorio 3:\n {string.Join(", \n", relatorio3)}");    
+var relatorio4 = clientes.OrderBy(c => c.Nome).Select(c => new {c.Nome, c.EstadoCivil, c.Profissao});
+
+Console.WriteLine($"Relatorio 4:\n {string.Join(", \n", relatorio4)}");
+Console.WriteLine("Escolha a Profissão:");
+string ?profissao = Console.ReadLine();
+var relatorio5 = clientes.Where(c => c.Profissao == profissao).Select(c => new {c.Nome, c.EstadoCivil, c.Profissao});
+Console.WriteLine($"Relatorio 5:\n {string.Join(", \n", relatorio5)}"); 
+
+Console.WriteLine("Escolha o Mês de Aniversário:");
+string ?mes = Console.ReadLine();
+
+var relatorio6 = Pessoa.Where((c,a) => a.DataNascimento.Month == c.DataNascimento.Month).Select(c => new {c.Nome, c.EstadoCivil, c.Profissao});
+Console.WriteLine($"Relatorio 6:\n {string.Join(", \n", relatorio6)}"); 
+
 public class App{
     public static void AdicionarAdvogado(List<Advogado> advogados, Advogado advogado){
         if(advogados.Any(a => a.Cpf == advogado.Cpf || a.CNA == advogado.CNA)){
