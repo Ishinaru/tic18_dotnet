@@ -1,5 +1,5 @@
-namespace Advogado;
-using Pessoa;
+namespace Prova.Advogado;
+using Prova.Pessoa;
 public class Advogado : Pessoa
 {
     public Advogado(string nome, DateTime dataNascimento, string cpf, string cna) : base(nome, dataNascimento, cpf){

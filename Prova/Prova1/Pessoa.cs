@@ -1,4 +1,4 @@
-namespace Pessoa;
+namespace Prova.Pessoa;
 public abstract class Pessoa{
     
     public Pessoa(string nome, DateTime dataNascimento, string cpf){
@@ -13,7 +13,7 @@ public abstract class Pessoa{
         get{return Cpf;}
         
         set {
-            if (Cpf?.Length == 11)
+            if (Cpf?.Length == 11 && Cpf.isNumeric())
                 Cpf = value;
             else{
                 throw new Exception("CPF inválido");

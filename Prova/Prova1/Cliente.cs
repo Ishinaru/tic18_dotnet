@@ -1,4 +1,4 @@
-namespace Cliente;
+namespace Prova.Cliente;
 using Pessoa;
 public class Cliente : Pessoa{
     public Cliente(string nome, DateTime dataNascimento, string cpf, string estadoCivil, string profissao) : base(nome, dataNascimento, cpf){
