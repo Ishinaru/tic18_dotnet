@@ -6,4 +6,12 @@ public class Advogado : Pessoa
         CNA = cna;
     }
     public string CNA { get; set; }
+
+    public static void AdicionarAdvogado(List<Advogado> advogados, Advogado advogado){
+        if(advogados.Any(a => a.Cpf == advogado.Cpf || a.CNA == advogado.CNA)){
+            throw new Exception("Advogado já cadastrado");
+        }
+        else
+            advogados.Add(advogado);
+    }
 }
